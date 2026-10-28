@@ -14,3 +14,7 @@ open FanBar.app
 ```
 
 Requires Xcode command line tools. The app is ad-hoc signed.
+
+## License
+
+[MIT](LICENSE)
